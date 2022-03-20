@@ -1,12 +1,10 @@
 table {
-  width: 40%;
-  margin: auto;
-  border-spacing: 0;
-  border:rgb(158, 158, 158) 1px solid;
+    width: 40rem;
+    margin: auto;
+    border-spacing: 0;
 }
 
 td {
-  padding: 1rem;
-  border-bottom: rgb(158, 158, 158) 1px solid;
-
+    padding: 1rem;
+    border-bottom: #ccc 1px solid;
 }
