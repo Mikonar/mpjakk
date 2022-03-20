@@ -1,0 +1,12 @@
+table {
+  width: 40%;
+  margin: auto;
+  border-spacing: 0;
+  border:rgb(158, 158, 158) 1px solid;
+}
+
+td {
+  padding: 1rem;
+  border-bottom: rgb(158, 158, 158) 1px solid;
+
+}
