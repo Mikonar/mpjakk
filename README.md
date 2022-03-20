@@ -1,6 +1,4 @@
-users.metropolia
-
-
+https://users.metropolia.fi/~mikona/mpjakk/
 
 
 
